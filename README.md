@@ -4,7 +4,7 @@
 Use notebooks to manipulate data files in panda.
 
 ### Pull Request
-lab12 PR https://github.com/johnson-tay09/madlib-cli/pull/1
+lab12 PR https://github.com/johnson-tay09/vg-stats/pull/1
 
 ### Feature Tasks and Requirements
 Find and download the following data sets:
@@ -32,4 +32,7 @@ Given all the weather data here, find the average precipitation per month, and t
 What’s the average number of bikes at a given bike station?
 When a bike station is modified, is it more likely that it’ll lose bikes or gain bikes? How do you know?
 Come up with 3 more questions that can be answered with this data set.
-When you’re done answering all of the questions for each data set, clean up your notebooks leaving only cells that contain relevant data and calculations. Then restart and run your notebook so that the cell numbering is sequential from top to bottom
+When you’re done answering all of the questions for each data set, clean up your notebooks leaving only cells that contain relevant data and calculations. Then restart and run your notebook so that the cell numbering is sequential from top to bottom.
+
+### Testing
+ran out of time to implement many test. Will resubmit 
